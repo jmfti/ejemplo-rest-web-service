@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/ingenieria/tercero/primer cuatrimestre/Computacion distribuida - Liu, M L  pdf/web services/apache-cxf-2.6.2/lib/cxf-manifest.jar"/>
+	<classpathentry kind="lib" path="C:/ingenieria/tercero/primer cuatrimestre/Computacion distribuida - Liu, M L  pdf/PEC rmi/lib/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/ingenieria/tercero/primer cuatrimestre/Computacion distribuida - Liu, M L  pdf/PEC rmi/lib/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="C:/ingenieria/tercero/primer cuatrimestre/Computacion distribuida - Liu, M L  pdf/PEC rmi/lib/SignalModel.jar"/>
+	<classpathentry kind="lib" path="C:/ingenieria/tercero/primer cuatrimestre/Computacion distribuida - Liu, M L  pdf/PEC rmi/lib/SignalPlot.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.ws.cxf.core.CXF_CLASSPATH_CONTAINER/Apache CXF/2.6.2">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/ws_services2"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
